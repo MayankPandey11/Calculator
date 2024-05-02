@@ -1,0 +1,12 @@
+.container{
+  border: 2px solid rgb(3, 82, 106);
+  border-radius:  7px;
+  width: 200px;
+  background-color: rgb(5, 182, 236);
+  justify-content: center;
+}
+.title{
+  font-size: 40px;
+  color:rgb(3, 82, 106) ;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

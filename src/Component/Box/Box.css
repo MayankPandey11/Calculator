@@ -1,0 +1,10 @@
+.box-title {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #0681f5;
+  border-radius: 5px;
+  box-sizing: border-box; /* Ensures padding and border are included in width */
+  background-color: #cedeee; /* White background */
+  color: #000000; /* Dark gray text color */
+}
